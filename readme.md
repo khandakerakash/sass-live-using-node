@@ -6,7 +6,7 @@
 
 ``` bash
 
-# Clone the repository with > git clone https://github.com/khandakerakash/portfolio-webstie-akash.git
+# Clone the repository with > git clone git@github.com:khandakerakash/sass-live-using-node.git
 
 # install dependencies
 npm install
