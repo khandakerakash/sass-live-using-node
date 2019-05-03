@@ -1,0 +1,13 @@
+$primary-color: rgb(250, 248, 248);
+.heading {
+    padding: 10px;
+    background: #e24444;
+}
+
+.title {
+    font-size: 22px;
+    color: $primary-color;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+}

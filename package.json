@@ -1,0 +1,14 @@
+{
+    "name": "akash",
+    "version": "1.0.0",
+    "description": "Portfolio Website of Akash",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass sass/main.scss css/style.css -w"
+    },
+    "author": "Akash",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.12.0"
+    }
+}
